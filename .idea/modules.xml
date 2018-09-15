@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/score-keeper-kata.iml" filepath="$PROJECT_DIR$/score-keeper-kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/score-keeper-kata_main.iml" filepath="$PROJECT_DIR$/.idea/modules/score-keeper-kata_main.iml" group="score-keeper-kata" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/score-keeper-kata_test.iml" filepath="$PROJECT_DIR$/.idea/modules/score-keeper-kata_test.iml" group="score-keeper-kata" />
+    </modules>
+  </component>
+</project>
